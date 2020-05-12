@@ -1,7 +1,7 @@
 # GDPRLocationAnonymiser
 Anonymise locations to comply with GDPR.
 
-*Under development!
+* Under development!
 
 Developed with Python 3.7, should work for Python 3.6+.
 
